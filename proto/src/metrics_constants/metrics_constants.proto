@@ -7441,5 +7441,8 @@ message MetricsEvent {
 
     // FE Settings
     FAN_EDITION = 4000;
+
+    // Panel for Mobile Data
+    PANEL_MOBILE_DATA = 4001;
   }
 }
